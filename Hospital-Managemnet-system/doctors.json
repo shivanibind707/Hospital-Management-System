@@ -1,0 +1,16 @@
+[
+    {
+        "id": 4321,
+        "name": "Dr.Yuvi",
+        "age": 34,
+        "specialization": "Physician",
+        "salary": 80000
+    },
+    {
+        "id": 7890,
+        "name": "Dr.Rahul",
+        "age": 34,
+        "specialization": "Surgeon",
+        "salary": 1000000
+    }
+]

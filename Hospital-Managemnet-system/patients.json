@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1234,
+        "name": "shivani",
+        "age": 18,
+        "disease": "fever",
+        "bill": 700,
+        "status": "Discharged"
+    },
+    {
+        "id": 12345,
+        "name": "shreya",
+        "age": 17,
+        "disease": "fracture",
+        "bill": 3000,
+        "status": "Null"
+    },
+    {
+        "id": 678,
+        "name": "riya",
+        "age": 45,
+        "disease": "Heart Blockage",
+        "bill": 8900000,
+        "status": "Null"
+    }
+]
